@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: da201719
 
 # Your name to show in the footer
-author: Some Person
+author: da201719
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,12 +52,13 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: deanattali
+#  github: daattali
+  twitter: da201719
+  patreon: da201719
+  youtube: "@1isNo0b"
+  discord: "https://discord.gg/utFbMSMsGs"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -68,7 +69,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: da201719
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -84,8 +85,8 @@ social-network-links:
 #  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# The URL for the feed will be https://da201719.github.io/feed.xml
+rss-description: I don't know rss.
 
 ###########################
 # --- General options --- #
@@ -94,8 +95,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -126,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "da201719"
 
 ######################################
 # --- Colours / background image --- #
@@ -258,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
